@@ -2,20 +2,20 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-05T16:44:59Z" name="Suite" finished-at="2023-08-05T16:45:59Z" duration-ms="60366">
+  <suite started-at="2023-08-05T18:08:27Z" name="Suite" finished-at="2023-08-05T18:09:05Z" duration-ms="38367">
     <groups>
     </groups>
-    <test started-at="2023-08-05T16:44:59Z" name="Test" finished-at="2023-08-05T16:45:59Z" duration-ms="60366">
+    <test started-at="2023-08-05T18:08:27Z" name="Test" finished-at="2023-08-05T18:09:05Z" duration-ms="38367">
       <class name="logExampleTestNG.NOPCommApp">
-        <test-method is-config="true" signature="launchApp()[pri:0, instance:logExampleTestNG.NOPCommApp@2a265ea9]" started-at="2023-08-05T22:14:59Z" name="launchApp" finished-at="2023-08-05T22:15:33Z" duration-ms="33573" status="PASS">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:logExampleTestNG.NOPCommApp@2a265ea9]" started-at="2023-08-05T23:38:27Z" name="launchApp" finished-at="2023-08-05T23:38:36Z" duration-ms="9544" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApp -->
-        <test-method signature="verifyLoginTest()[pri:0, instance:logExampleTestNG.NOPCommApp@2a265ea9]" started-at="2023-08-05T22:15:33Z" name="verifyLoginTest" finished-at="2023-08-05T22:15:54Z" duration-ms="21454" status="PASS">
+        <test-method signature="verifyLoginTest()[pri:0, instance:logExampleTestNG.NOPCommApp@2a265ea9]" started-at="2023-08-05T23:38:36Z" name="verifyLoginTest" finished-at="2023-08-05T23:39:00Z" duration-ms="23529" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTest -->
-        <test-method is-config="true" signature="closingApp()[pri:0, instance:logExampleTestNG.NOPCommApp@2a265ea9]" started-at="2023-08-05T22:15:54Z" name="closingApp" finished-at="2023-08-05T22:15:59Z" duration-ms="5291" status="PASS">
+        <test-method is-config="true" signature="closingApp()[pri:0, instance:logExampleTestNG.NOPCommApp@2a265ea9]" started-at="2023-08-05T23:39:00Z" name="closingApp" finished-at="2023-08-05T23:39:05Z" duration-ms="5273" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closingApp -->
